@@ -13,7 +13,7 @@ profile:
 Hecho con calma, para regalar y regalarte."
   avatar: "assets/flower.png"
 theme:
-  name: "bold"
+  name: "minimal"
   primary_color: "#294D3C"
   background_color: "#F7F4EB"
   text_color: "#23362E"
